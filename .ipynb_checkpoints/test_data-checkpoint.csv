@@ -1,0 +1,9 @@
+ID,Name,Age,City,Score
+1,Alicia,25.0,NY,85.0
+2,Bob,,LA,92.0
+3,Charlie,22.0,Chicago,-1.0
+4,Dominic,19.0,Houston,65.0
+5,Eve,31.0,Phoenix,78.0
+6,Frank,35.0,Boston,
+7,Grace,,Austin,55.0
+8,Heidi,18.0,San Diego,90.0
